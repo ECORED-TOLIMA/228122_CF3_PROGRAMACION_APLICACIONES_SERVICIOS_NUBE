@@ -9,57 +9,44 @@
     .row.justify-content-center.align-items-stretch.cajon.C04.mb-4.g-0
       .col-lg-7.col-12.order-lg-2.order-2
         .cajon.C04.p-4.h-100.w-100
-          p.mb-4 Constituyen elementos fundamentales en la programación, ya que permiten definir el comportamiento de un algoritmo y organizar la información de manera eficiente. Su correcta implementación garantiza que las soluciones desarrolladas respondan de forma lógica a diferentes condiciones y que los datos sean gestionados adecuadamente durante la ejecución del programa.
+          p.mb-4 Las estructuras de control y las estructuras de datos constituyen elementos fundamentales en la programación, ya que permiten definir el comportamiento de un algoritmo y organizar la información de manera eficiente. Su correcta implementación garantiza que las soluciones desarrolladas respondan de forma lógica a diferentes condiciones y que los datos sean gestionados adecuadamente durante la ejecución del programa.
           .row.mb-0
             .col-lg-2.d-none.d-lg-block
               figure
                 img(src='@/assets/curso/temas/tema4/img2.svg', alt='Imagen decorativa')
             .col-lg-10.col-12
-              p.mb-0 Las estructuras de control determinan el flujo de ejecución de las instrucciones, permitiendo establecer secuencias, tomar decisiones y repetir procesos según sea necesario. Por su parte, las estructuras de datos facilitan el almacenamiento y organización de la información, permitiendo manipular conjuntos de datos de forma estructurada.          
+              p.mb-0 Las estructuras de control determinan el flujo de ejecución de las instrucciones, permitiendo establecer secuencias, tomar decisiones y repetir procesos según sea necesario. Por su parte, las estructuras de datos facilitan el almacenamiento y la organización de la información, permitiendo manipular conjuntos de datos de forma estructurada.
       .col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/temas/tema4/img1.png', alt='Imagen decorativa')
-    .row.justify-content-center.mb-4
+        
+    p.mb-4(data-aos="fade-down") Las estructuras utilizadas en programación pueden clasificarse en dos grandes grupos:
+
+    .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12
-        p.mb-4(data-aos="fade-down") A continuación, se presentan las principales estructuras utilizadas en la programación y sus componentes esenciales:
-        .row.justify-content-center.mb-0(data-aos="flip-up")
-          .col.col-12
-            .titulo-sexto.color-acento-contenido
-              h5 Figura 3.
-              span Clasificación de las estructuras de control y datos en programación
-          .row.justify-content-center
-            .d-none.d-lg-block.mb-4
-                img(src='@/assets/curso/temas/tema4/img3.svg', alt='Figura 3 que presenta un esquema de las estructuras de programación, donde se distinguen las estructuras de control, incluyendo la estructura secuencial, las estructuras condicionales y las estructuras de iteración y las estructuras de datos, representadas por vectores y matrices, mostrando de forma jerárquica la organización básica de los programas.')
-            .d-block.d-lg-none
-                img(src='@/assets/curso/temas/tema4/img3_1.svg', alt='Figura 3 que presenta un esquema de las estructuras de programación, donde se distinguen las estructuras de control, incluyendo la estructura secuencial, las estructuras condicionales y las estructuras de iteración y las estructuras de datos, representadas por vectores y matrices, mostrando de forma jerárquica la organización básica de los programas.')
-    p.mb-4(data-aos="fade-down") Las estructuras de programación se organizan en dos grandes grupos:
-    .row.justify-content-center.mb-4
-      .col.col-lg-6.col-12.mb-4.mb-lg-0(data-aos="fade-left")
-        .tarjeta-avatar-b
-          .tarjeta-avatar-b__img
-            .col-lg-12(data-aos="flip-up")
-              img(src='@/assets/curso/temas/tema4/img4.svg' alt="Imagen decorativa")
-          .tarjeta.tarjeta--C04.px-5.py-3
-            .p-4
-              h4 Estructuras de control
-              p.mb-0 Comprenden la ejecución secuencial de instrucciones, las estructuras condicionales para la toma de decisiones según condiciones específicas y las estructuras repetitivas que permiten ejecutar procesos de forma iterativa.
-      .col.col-lg-6.col-12.mb-4.mb-lg-0(data-aos="fade-left")
-        .tarjeta-avatar-b
-          .tarjeta-avatar-b__img
-            .col-lg-12(data-aos="flip-up")
-              img(src='@/assets/curso/temas/tema4/img5.svg' alt="Imagen decorativa")
-          .tarjeta.tarjeta--C04.px-5.py-3
-            .p-4
-              h4 Estructuras de datos
-              p.mb-0 Facilitan el almacenamiento y la organización de múltiples valores, como los vectores y las matrices, permitiendo un acceso ordenado y eficiente a la información.
-              br
+        .tarjeta--container.row
+          .col-xl.col-lg-6.tarjeta.tarjeta--C01.p-5
+            .row.justify-content-center.mb-3
+              .col-lg-4.col-4
+                figure(data-aos="fade-up")
+                  img(src='@/assets/curso/temas/tema4/img4.svg', alt='Imagen decorativa')(style="width: 85%")
+            h4.text-center Estructuras de control
+            p.mb-0(data-aos="fade-down") Comprenden la ejecución secuencial de instrucciones, las estructuras condicionales para la toma de decisiones según condiciones específicas y las estructuras repetitivas que permiten ejecutar procesos de forma iterativa. Estas estructuras hacen posible controlar el comportamiento de un algoritmo de acuerdo con los requerimientos de la solución planteada.
+          .col-xl.col-lg-6.tarjeta.cajon.C02.p-5
+            .row.justify-content-center.mb-3
+              .col-lg-4.col-4
+                figure(data-aos="fade-up")
+                  img(src='@/assets/curso/temas/tema4/img5.svg', alt='Imagen decorativa')(style="width: 85%")
+            h4.text-center Estructuras de datos
+            p.mb-0(data-aos="fade-down") Facilitan el almacenamiento y la organización de múltiples valores, como los vectores y las matrices, permitiendo un acceso ordenado y eficiente a la información. Su utilización contribuye al manejo adecuado de grandes cantidades de datos y favorece la construcción de soluciones más organizadas y escalables.
+
     .row.justify-content-center.align-items-center.mb-0
       .col.col-lg-auto.col-6.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
         figure
           img(src='@/assets/curso/temas/tema4/img6.svg', alt='Imagen decorativa')
       .col.col-lg-9.col-12.order-lg-2.order-2
         .cajon.cajon.C01.px-4.py-3
-          p.mb-0(data-aos="fade-down") El dominio de estas estructuras permite desarrollar algoritmos más dinámicos, organizados y eficientes, facilitando la resolución de problemas y el manejo adecuado de la información dentro de los programas.
+          p.mb-0(data-aos="fade-down") La adecuada selección y aplicación de estas estructuras permite desarrollar algoritmos más dinámicos, organizados y eficientes, facilitando la resolución de problemas y el manejo adecuado de la información dentro de los programas.
     
     Separador
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
@@ -155,52 +142,14 @@
         LineaTiempoD.color-acento-botones.especial
           .row(numero="1" titulo="Definición de la condición")
             .col-12.mb-4.mb-md-0
-              ul.lista-ul.mb-0
-                li.mb-0
-                  i.lista-ul__vineta
-                  p Establecimiento del criterio que controla la repetición.
-                li.mb-0
-                  i.lista-ul__vineta
-                  p Puede ser una condición lógica (while) o un rango (for).
-                li.mb-0
-                  i.lista-ul__vineta
-                  p Inicialización de variables de control.
+              p.mb-0 Consiste en establecer el criterio que controla la repetición del ciclo. Esta condición puede corresponder a una expresión lógica, como en las estructuras while, o a un rango definido de repeticiones, como ocurre en las estructuras for. En esta etapa también se realiza la inicialización de las variables de control necesarias para el funcionamiento del ciclo.
           .row(numero="2" titulo="Ejecución del ciclo")
             .col-12.mb-4.mb-md-0
-              ul.lista-ul.mb-0
-                li.mb-0
-                  i.lista-ul__vineta
-                  p Desarrollo de las instrucciones dentro del ciclo.
-                li.mb-0
-                  i.lista-ul__vineta
-                  p Procesamiento de datos en cada iteración.
-                li.mb-0
-                  i.lista-ul__vineta
-                  p Aplicación de operaciones definidas en el algoritmo.
+              p.mb-0 Corresponde al desarrollo de las instrucciones que se ejecutan de forma repetitiva durante cada iteración. En esta fase se realiza el procesamiento de datos y la aplicación de las operaciones definidas dentro del algoritmo.
           .row(numero="3" titulo="Actualización de variables")
-            .col-12.mb-4.mb-md-0
-              ul.lista-ul.mb-0
-                li.mb-0
-                  i.lista-ul__vineta
-                  p Modificación de contadores o variables de control.
-                li.mb-0
-                  i.lista-ul__vineta
-                  p Ajuste de la condición para avanzar en el ciclo.
-                li.mb-0
-                  i.lista-ul__vineta
-                  p Preparación para la siguiente iteración.
+            p.mb-0 Implica la modificación de contadores o variables de control utilizadas para gestionar la repetición. Esta actualización permite ajustar la condición del ciclo y preparar la siguiente iteración.
           .row(numero="4" titulo="Finalización del ciclo")
-            .col-12.mb-4.mb-md-0
-              ul.lista-ul.mb-0
-                li.mb-0
-                  i.lista-ul__vineta
-                  p Evaluación de la condición de salida.
-                li.mb-0
-                  i.lista-ul__vineta
-                  p Terminación del ciclo cuando no se cumple la condición.
-                li.mb-0
-                  i.lista-ul__vineta
-                  p Continuación del flujo normal del algoritmo.
+            p.mb-0 Se produce cuando la condición de repetición deja de cumplirse. En este momento se termina la ejecución del ciclo y el algoritmo continúa con el flujo normal de las instrucciones restantes.
       .col-lg-4.col-sm-4.col-5.order-lg-1.order-1.mb-lg-0.mb-4.d-none.d-lg-block
         figure
           img(src='@/assets/curso/temas/tema4/img16.png', alt='Imagen decorativa')

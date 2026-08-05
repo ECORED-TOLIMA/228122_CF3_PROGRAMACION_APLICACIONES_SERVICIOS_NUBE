@@ -135,7 +135,7 @@
           li
             i.fas.fa-cloud-arrow-down
             p.mb-0 Reducir errores al trabajar de forma independiente sobre cada módulo.
-        p.mb-0(data-aos="fade-down") El proceso para definir las características funcionales de los módulos es el siguiente:
+        p.mb-0(data-aos="fade-down") El proceso para definir las características funcionales de los módulos comprende las siguientes etapas:
       .col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
         figure.mb-0
           img(src='@/assets/curso/temas/tema5/img8.svg', alt='Imagen decorativa')
@@ -144,49 +144,17 @@
         LineaTiempoD.color-acento-botones.especial
           .row(numero="1" titulo="Identificar la función del módulo")
             .col-12.mb-4.mb-md-0
-              ul.lista-ul.mb-0
-                li.mb-0
-                  i.lista-ul__vineta
-                  p Determinar la tarea específica que debe cumplir.
-                li.mb-0
-                  i.lista-ul__vineta
-                  p Delimitar su responsabilidad dentro del algoritmo.
+              p.mb-0 Determinar la tarea específica que debe cumplir y delimitar claramente su responsabilidad dentro del algoritmo.
           .row(numero="2" titulo="Definir entradas y salidas")
             .col-12.mb-4.mb-md-0
-              ul.lista-ul.mb-0
-                li.mb-0
-                  i.lista-ul__vineta
-                  p Establecer los datos que recibe el módulo.
-                li.mb-0
-                  i.lista-ul__vineta
-                  p Determinar la información que entrega como resultado.
+              p.mb-0 Establecer los datos que recibe el módulo y la información que entrega como resultado de su ejecución.
           .row(numero="3" titulo="Diseñar la lógica interna")
-            .col-12.mb-4.mb-md-0
-              ul.lista-ul.mb-0
-                li.mb-0
-                  i.lista-ul__vineta
-                  p Estructurar las instrucciones necesarias para cumplir su función.
-                li.mb-0
-                  i.lista-ul__vineta
-                  p Garantizar coherencia y simplicidad en su desarrollo.
+            p.mb-0 Estructurar las instrucciones necesarias para cumplir su función, garantizando coherencia, simplicidad y eficiencia.
           .row(numero="4" titulo="Validar funcionamiento del módulo")
-            .col-12.mb-4.mb-md-0
-              ul.lista-ul.mb-0
-                li.mb-0
-                  i.lista-ul__vineta
-                  p Verificar que cumple correctamente su propósito.
-                li.mb-0
-                  i.lista-ul__vineta
-                  p Probar su comportamiento con diferentes datos.
+            p.mb-0 Verificar que cumple correctamente su propósito y evaluar su comportamiento utilizando diferentes conjuntos de datos.
           .row(numero="4" titulo="Integrar con otros módulos")
-            .col-12.mb-4.mb-md-0
-              ul.lista-ul.mb-0
-                li.mb-0
-                  i.lista-ul__vineta
-                  p Asegurar la correcta comunicación entre módulos.
-                li.mb-0
-                  i.lista-ul__vineta
-                  p Validar su interacción dentro del sistema completo.
+            p.mb-0 Asegurar la correcta comunicación entre módulos y validar su interacción dentro de la solución completa.
+
       .col-lg-4.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
         figure
           img(src='@/assets/curso/temas/tema5/img9.png', alt='Imagen decorativa')
@@ -258,20 +226,8 @@
         figure
           img(src='@/assets/curso/temas/tema5/img12.svg', alt='Imagen decorativa')
       .col.col-lg-9.col-12.order-lg-2.order-2
-        .cajon.cajon.C01.px-4.py-3
-          p.mb-0(data-aos="fade-down") Igualmente, se relaciona un diagrama de fujo sobre la detección de errores y con ello se puede apreciar de manera directa el debido accionar ante un acontecimiento real:
-    .row.justify-content-center.mb-4
-      .col.col-lg-12.col-12
-        .row.justify-content-center.mb-4(data-aos="flip-up")
-          .col.col-12
-            .titulo-sexto.color-acento-contenido
-              h5 Figura 4.
-              span Proceso de detección de errores en algoritmos
-          .row.justify-content-center
-            .d-none.d-lg-block.mb-4
-                img(src='@/assets/curso/temas/tema5/img13.svg', alt='Figura 4 que muestra un diagrama de flujo del proceso para arrancar un vehículo, donde se representan de forma secuencial acciones como insertar la llave, ubicar el cambio en punto muerto y girar la llave, junto con una decisión que evalúa si el motor arranca, derivando en acciones alternativas como poner el cambio en primera o llamar al mecánico hasta llegar al fin del proceso.')
-            .d-block.d-lg-none
-              img(src='@/assets/curso/temas/tema5/img13_1.svg', alt='Figura 4 que muestra un diagrama de flujo del proceso para arrancar un vehículo, donde se representan de forma secuencial acciones como insertar la llave, ubicar el cambio en punto muerto y girar la llave, junto con una decisión que evalúa si el motor arranca, derivando en acciones alternativas como poner el cambio en primera o llamar al mecánico hasta llegar al fin del proceso.')
+        .cajon.cajon.C04.px-4.py-3
+          p.mb-0(data-aos="fade-down") La identificación temprana de errores permite mejorar la calidad de los algoritmos y reducir problemas durante su implementación. Por esta razón, es importante analizar las causas que los originan, las consecuencias que generan y las estrategias que contribuyen a su prevención.
     p.mb-4(data-aos="fade-down") A continuación, se presenta un análisis sobre los errores más comunes que pueden surgir durante el diseño y desarrollo de algoritmos. Comprender sus causas y consecuencias resulta fundamental para mejorar la lógica de programación y la calidad del <em>software</em>. Asimismo, se proponen estrategias prácticas que contribuyen a prevenir fallos, optimizar el proceso de desarrollo y garantizar resultados correctos y confiables:
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10.col-12
@@ -336,7 +292,7 @@
                   p.mb-0 Revisar paso a paso el algoritmo.
             .col-lg-5.col-12.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-up")
               img(src='@/assets/curso/temas/tema5/img16.png', alt="Imagen decorativa")
-    p.mb-4(data-aos="fade-down") Para comprender de mejor manera el funcionamiento del algoritmo y la identificación de errores lógicos, se presenta el siguiente video, en el cual se explica paso a paso un ejemplo práctico donde se evidencia cómo una operación incorrecta dentro del proceso afecta el resultado final del programa:
+    p.mb-4(data-aos="fade-down") Para complementar los conceptos abordados, se recomienda revisar el siguiente video, en el cual se presenta un ejemplo práctico orientado a la identificación de errores lógicos dentro de un algoritmo. Este recurso permite comprender cómo una operación incorrecta puede afectar los resultados esperados y resalta la importancia de realizar procesos de validación durante el desarrollo de soluciones.
     .row.justify-content-center.align-items-center.mb-0
       .col.col-lg-12
         figure
@@ -358,33 +314,33 @@
           .row.justify-content-center.mb-3
             .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema5/img17.svg' alt='AvatarTop')
-          h4.text-center Parámetros de entrada
-          p.mb-5 Corresponden a los datos que el módulo recibe para poder ejecutar su función.
-          br
+          h5.text-center Parámetros de entrada
+          p.mb-5 Corresponden a los datos que el módulo recibe para ejecutar su función. Estos valores proporcionan la información necesaria para realizar el procesamiento requerido.
+          
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema5/img18.svg' alt='AvatarTop')
-          h4.text-center Parámetros de salida 
-          p Representan los resultados generados por el módulo después de procesar la información.
+          h5.text-center Parámetros de salida 
+          p Representan los resultados generados por el módulo después de procesar la información recibida. Permiten comunicar los resultados obtenidos a otros módulos o al programa principal.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema5/img19.svg' alt='AvatarTop')
-          h4.text-center Claridad en la definición 
-          p Los parámetros deben estar claramente especificados para evitar ambigüedades en su uso.
+          h5.text-center Claridad en la definición 
+          p Los parámetros deben estar claramente especificados para evitar ambigüedades y garantizar una adecuada comprensión de su propósito dentro del módulo.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema5/img20.svg' alt='AvatarTop')
-          h4.text-center Tipo de datos
-          p Es necesario definir el tipo de información que se recibe y se devuelve, garantizando coherencia en el procesamiento.
+          h5.text-center Tipo de datos
+          p Es necesario definir el tipo de información que se recibe y se devuelve, asegurando coherencia durante el procesamiento y la obtención de resultados.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema5/img21.svg' alt='AvatarTop')
-          h4.text-center Independencia del módulo
-          p Los parámetros permiten que cada módulo funcione sin depender directamente de otros, favoreciendo la modularidad.
+          h5.text-center Independencia del módulo
+          p Los parámetros permiten que cada módulo funcione de manera autónoma, reduciendo dependencias innecesarias y favoreciendo la reutilización del código.
     .row.justify-content-center.mb-0
       .col.col-12
         p.mb-0(data-aos="fade-down") Una vez definidos los parámetros, es importante establecer cómo se gestionan dentro del programa, considerando el siguiente proceso:

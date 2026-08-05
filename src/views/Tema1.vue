@@ -99,13 +99,13 @@
           h4.text-center Generalidad
           p.mb-0.text-center Propiedad que permite que un algoritmo pueda aplicarse a diferentes casos dentro de un mismo tipo de problema.
     .row.justify-content-center.align-items-center
-      .col-lg-10
+      .col-lg-11
         .row.justify-content-center.mb-4
           .col.col-lg-auto.col-6.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
             img(src='@/assets/curso/temas/tema1/img14.svg', alt='')
           .col.col-lg-10.col-12.order-lg-2.order-2
-            .p-4.cajon.C01
-              p.mb-0 El dominio de estos conceptos permite comprender la estructura y funcionamiento de los algoritmos, facilitando el desarrollo de soluciones claras, organizadas y eficientes en el contexto de la programación.
+            .p-3.cajon.C01
+              p.mb-1 El dominio de estos conceptos permite comprender la estructura y funcionamiento de los algoritmos, facilitando el desarrollo de soluciones claras, organizadas y eficientes en el contexto de la programación.
 
     Separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
@@ -319,7 +319,9 @@
             h5.t1.mb-3 Algoritmos paralelos
             h5.t2.mb-2 Algoritmos paralelos
             p Permiten ejecutar varias operaciones simultáneamente, optimizando tiempos de procesamiento en sistemas avanzados.
-    p.mb-4(data-aos="fade-down") Esta clasificación ampliada permite comprender que no existe un único tipo de algoritmo aplicable a todos los problemas, sino que la elección depende de factores como la complejidad, los recursos disponibles y los objetivos de la solución.
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-10
+        p.mb-0(data-aos="fade-down") Esta clasificación ampliada permite comprender que no existe un único tipo de algoritmo aplicable a todos los problemas, sino que la elección depende de factores como la complejidad, los recursos disponibles y los objetivos de la solución.
     .row.justify-content-center.align-items-center.mb-0
       .col.col-lg-auto.col-6.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
         figure
