@@ -7,6 +7,8 @@
         span
           i.fas.fa-info
       h1 Introducción
+
+      
     p.mb-4 Este componente formativo se orienta al desarrollo integral de competencias en lógica, algoritmia y programación, fundamentales para la formación en el área de desarrollo de #[i software]. Inicia con la comprensión de los conceptos básicos de algoritmo y el fortalecimiento del pensamiento algorítmico, permitiendo analizar problemas de manera estructurada y proponer soluciones lógicas sustentadas en la lógica matemática y proposicional.
     .bloque-texto-g.C01.p-3.p-sm-4.p-md-5.mb-4
       .bloque-texto-g__img(
