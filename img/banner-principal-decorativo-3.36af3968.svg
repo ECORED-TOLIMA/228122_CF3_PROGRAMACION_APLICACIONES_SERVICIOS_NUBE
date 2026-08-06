@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16.017" height="145.076" viewBox="0 0 16.017 145.076">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_459640" data-name="Rectangle 459640" width="145.076" height="16.017" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="banner-principal-decorativo-3" transform="translate(17.005 123.076) rotate(-90)">
+    <g id="Group_1187773" data-name="Group 1187773" transform="translate(-22 -17.005)" clip-path="url(#clip-path)">
+      <path id="Path_1032673" data-name="Path 1032673" d="M105.536,15.408H76.251a7.547,7.547,0,0,1,0-15.093h29.286a7.547,7.547,0,1,1,0,15.093" transform="translate(31.993 0.146)" fill="#fff"/>
+      <path id="Path_1032674" data-name="Path 1032674" d="M36.832,15.408H7.547a7.547,7.547,0,0,1,0-15.093H36.832a7.547,7.547,0,1,1,0,15.093" transform="translate(0 0.146)" fill="#1e535a"/>
+      <path id="Path_1032675" data-name="Path 1032675" d="M71.1,16.018H41.815A8.009,8.009,0,0,1,41.815,0H71.1a8.009,8.009,0,0,1,0,16.018M41.815.925a7.084,7.084,0,1,0,0,14.169H71.1A7.084,7.084,0,1,0,71.1.925Z" transform="translate(15.743 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
