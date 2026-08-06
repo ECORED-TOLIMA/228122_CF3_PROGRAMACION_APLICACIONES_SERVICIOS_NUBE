@@ -36,7 +36,7 @@
               p.mb-0 Comprobar que las salidas generadas por el algoritmo corresponden a los resultados esperados y cumplen con los objetivos planteados.
       .col-lg-4.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/temas/tema5/img2.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema5/img2.png', alt='')
     .row.justify-content-center.align-items-center.mb-0
       .col.col-lg-10.col-12
         .cajon.color-primario.p-4
@@ -45,7 +45,7 @@
               p.mb-0(data-aos="fade-down") La correcta aplicación de la programación modular, junto con la verificación sistemática de los algoritmos, permite desarrollar soluciones más estructuradas, confiables y eficientes, facilitando su mantenimiento y evolución dentro del proceso de desarrollo de <em>software</em>.
             .col.col-lg-2.col-5.order-lg-1.order-1
               figure
-                img(src='@/assets/curso/temas/tema5/img3.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema5/img3.svg', alt='')
     
     Separador
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
@@ -53,7 +53,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-5.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/tema5/img4.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema5/img4.png', alt='')
       .col.col-lg-7.col-12.order-lg-1.order-2
         p.mb-4(data-aos="fade-down") La programación modular es un enfoque de desarrollo que permite estructurar un algoritmo en partes independientes, conocidas como módulos, cada uno con una función específica dentro de la solución. Este concepto facilita la organización del código, reduce la complejidad y mejora la comprensión del programa, permitiendo abordar problemas de manera más ordenada y eficiente.
         .cajon.color-secundario.p-4.mb-4
@@ -95,7 +95,7 @@
     .row.justify-content-center.align-items-center.mb-0
       .col.col-lg-auto.col-6.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/tema5/img5.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema5/img5.svg', alt='')
       .col.col-lg-9.col-12.order-lg-2.order-2
         .cajon.cajon.C01.px-4.py-3
           p.mb-0(data-aos="fade-down") La aplicación de la programación modular permite desarrollar soluciones más organizadas, comprensibles y eficientes, contribuyendo a la calidad del <em>software</em> y facilitando su evolución en el tiempo.
@@ -110,12 +110,12 @@
           .row.mb-0
             .col-lg-2.d-none.d-lg-block
               figure
-                img(src='@/assets/curso/temas/tema5/img7.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema5/img7.svg', alt='')
             .col-lg-10.col-12
               p.mb-0 Un módulo funcional debe diseñarse de manera que cumpla una tarea concreta, evitando sobrecargar su propósito o generar dependencias innecesarias. Esto permite que el programa sea más fácil de comprender, mantener y escalar en el tiempo.
       .col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
         figure
-          img(src='@/assets/curso/temas/tema5/img6.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema5/img6.png', alt='')
     .row.justify-content-center.align-items-strench.mb-4
       .col-lg-7.col-12.order-lg-2.order-2
         p.mb-4(data-aos="fade-down") Estas características permiten:
@@ -138,7 +138,7 @@
         p.mb-0(data-aos="fade-down") El proceso para definir las características funcionales de los módulos comprende las siguientes etapas:
       .col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
         figure.mb-0
-          img(src='@/assets/curso/temas/tema5/img8.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema5/img8.svg', alt='')
     .row.justify-content-center.align-items-center.px-3.mb-4(data-aos="flip-up")
       .col-lg-6.col-12.mb-md-0.order-lg-1.order-2.mb-lg-0
         LineaTiempoD.color-acento-botones.especial
@@ -157,7 +157,7 @@
 
       .col-lg-4.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/temas/tema5/img9.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema5/img9.png', alt='')
     .row.justify-content-center.mb-0
       .col.col-lg-10.col-12
         .cajon.cajon.C05.px-4.py-3
@@ -169,7 +169,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col.col-lg-1.col-6.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/tema5/img10.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema5/img10.svg', alt='')
       .col.col-lg-11.col-12.order-lg-2.order-2
         p.mb-0(data-aos="fade-down") Los errores en algoritmos constituyen una de las principales causas de fallos en el desarrollo de soluciones informáticas, ya que afectan directamente la lógica, el funcionamiento y los resultados esperados. Identificarlos y corregirlos oportunamente es fundamental para garantizar la calidad, eficiencia y confiabilidad de los programas.
     .bloque-texto-g.C01.bloque-texto-g--inverso.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-up")
@@ -184,7 +184,7 @@
           p.mb-0(data-aos="fade-down") A diferencia de los errores de programación específicos de un lenguaje, los errores en algoritmos están relacionados con la lógica de la solución, por lo que pueden detectarse incluso antes de codificar.
     
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/ico.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/ico.svg', alt='')
       h4 Clasificación de errores en algoritmos
     p.mb-4(data-aos="fade-down") A continuación, se presentan los errores más frecuentes:
         
@@ -224,7 +224,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col.col-lg-auto.col-6.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/tema5/img12.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema5/img12.svg', alt='')
       .col.col-lg-9.col-12.order-lg-2.order-2
         .cajon.cajon.C04.px-4.py-3
           p.mb-0(data-aos="fade-down") La identificación temprana de errores permite mejorar la calidad de los algoritmos y reducir problemas durante su implementación. Por esta razón, es importante analizar las causas que los originan, las consecuencias que generan y las estrategias que contribuyen a su prevención.
@@ -252,10 +252,10 @@
                   i.lista-ul__vineta
                   p.mb-0 Mala estructuración del flujo lógico.
             .col-lg-5.col-12.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-up")
-              img(src='@/assets/curso/temas/tema5/img14.png', alt="Imagen decorativa")          
+              img(src='@/assets/curso/temas/tema5/img14.png', alt='')          
           .row.justify-content-center
             .col-lg-5.col-12.mb-lg-0.mb-4(data-aos="fade-up")
-              img(src='@/assets/curso/temas/tema5/img15.png', alt="Imagen decorativa")          
+              img(src='@/assets/curso/temas/tema5/img15.png', alt='')          
             .col-lg-6(data-aos="fade-down")
               h4.text-start Consecuencias de los errores
               ul.lista-ul.mb-0.text-start
@@ -291,7 +291,7 @@
                   i.lista-ul__vineta
                   p.mb-0 Revisar paso a paso el algoritmo.
             .col-lg-5.col-12.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-up")
-              img(src='@/assets/curso/temas/tema5/img16.png', alt="Imagen decorativa")
+              img(src='@/assets/curso/temas/tema5/img16.png', alt='')
     p.mb-4(data-aos="fade-down") Para complementar los conceptos abordados, se recomienda revisar el siguiente video, en el cual se presenta un ejemplo práctico orientado a la identificación de errores lógicos dentro de un algoritmo. Este recurso permite comprender cómo una operación incorrecta puede afectar los resultados esperados y resalta la importancia de realizar procesos de validación durante el desarrollo de soluciones.
     .row.justify-content-center.align-items-center.mb-0
       .col.col-lg-12
@@ -313,32 +313,32 @@
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema5/img17.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema5/img17.svg' alt='')
           h5.text-center Parámetros de entrada
           p.mb-5 Corresponden a los datos que el módulo recibe para ejecutar su función. Estos valores proporcionan la información necesaria para realizar el procesamiento requerido.
           
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema5/img18.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema5/img18.svg' alt='')
           h5.text-center Parámetros de salida 
           p Representan los resultados generados por el módulo después de procesar la información recibida. Permiten comunicar los resultados obtenidos a otros módulos o al programa principal.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema5/img19.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema5/img19.svg' alt='')
           h5.text-center Claridad en la definición 
           p Los parámetros deben estar claramente especificados para evitar ambigüedades y garantizar una adecuada comprensión de su propósito dentro del módulo.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema5/img20.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema5/img20.svg' alt='')
           h5.text-center Tipo de datos
           p Es necesario definir el tipo de información que se recibe y se devuelve, asegurando coherencia durante el procesamiento y la obtención de resultados.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema5/img21.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema5/img21.svg' alt='')
           h5.text-center Independencia del módulo
           p Los parámetros permiten que cada módulo funcione de manera autónoma, reduciendo dependencias innecesarias y favoreciendo la reutilización del código.
     .row.justify-content-center.mb-0
@@ -350,28 +350,28 @@
           .row.align-items-center.BG03(data-aos="fade-down")
             .col-lg-4.d-none.d-lg-block.py-0.px-3
               figure(data-aos="zoom-in")
-                img(src="@/assets/curso/temas/tema5/img22.png", alt="Imagen decorativa")
+                img(src="@/assets/curso/temas/tema5/img22.png", alt='')
             .col-lg-8.p-5.py-4
               SlyderF.custom.color-acento-botones.px-4.py-0(columnas="col-lg-6 col-xl-6")
                 .tarjeta.tarjeta--slyder.px-4.py-4
                   .row.justify-content-center.mb-3
                     .col-5.col-lg-8
-                      img(src="@/assets/curso/temas/tema5/img23.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/tema5/img23.svg", alt='').img100.m-auto
                   p Identificación de los datos requeridos por el módulo y establecimiento de los valores iniciales.
                 .tarjeta.tarjeta--slyder.p-4
                   .row.justify-content-center.mb-3
                     .col-5.col-lg-8
-                      img(src="@/assets/curso/temas/tema5/img24.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/tema5/img24.svg", alt='').img100.m-auto
                   p Ejecución de las instrucciones del módulo y transformación de los datos de entrada.
                 .tarjeta.tarjeta--slyder.p-4
                   .row.justify-content-center.mb-3
                     .col-5.col-lg-8
-                      img(src="@/assets/curso/temas/tema5/img25.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/tema5/img25.svg", alt='').img100.m-auto
                   p Obtención de resultados a partir del procesamiento y preparación de los datos para ser retornados.
                 .tarjeta.tarjeta--slyder.p-4
                   .row.justify-content-center.mb-3
                     .col-5.col-lg-8
-                      img(src="@/assets/curso/temas/tema5/img26.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/tema5/img26.svg", alt='').img100.m-auto
                   p Envío de resultados al módulo principal u otros módulos y continuidad del flujo del programa.
     p.mb-0(data-aos="fade-down") La correcta definición y gestión de los parámetros de entrada y salida permite construir programas más organizados, coherentes y funcionales, asegurando una adecuada comunicación entre módulos y facilitando el desarrollo de soluciones eficientes en programación.
     
@@ -381,7 +381,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/tema5/img27.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema5/img27.png', alt='')
       .col.col-lg-7.col-12.order-lg-2.order-2
         p.mb-4(data-aos="fade-down") Constituyen una técnica fundamental para verificar el correcto funcionamiento de una solución antes de su implementación en un lenguaje de programación. Este proceso permite simular paso a paso la ejecución del algoritmo, analizando cómo se comportan las variables y validando que los resultados obtenidos sean coherentes con lo esperado.
         .cajon.color-secundario.p-4.mb-4
@@ -394,28 +394,28 @@
             .row.justify-content-center.mb-3
               .col-lg-7.col-4
                 figure(data-aos="fade-up")
-                  img(src='@/assets/curso/temas/tema5/img28.svg', alt='Imagen decorativa')(style="width: 85%")
+                  img(src='@/assets/curso/temas/tema5/img28.svg', alt='')(style="width: 85%")
             h4.text-center A. Definición de datos de prueba
             p.mb-5(data-aos="fade-down") Selección de valores de entrada que permitan evaluar diferentes escenarios del algoritmo, incluyendo casos normales, extremos y posibles errores.
           .col-xl.col-lg-6.tarjeta.cajon.C01.p-5
             .row.justify-content-center.mb-3
               .col-lg-7.col-4
                 figure(data-aos="fade-up")
-                  img(src='@/assets/curso/temas/tema5/img29.svg', alt='Imagen decorativa')(style="width: 85%")
+                  img(src='@/assets/curso/temas/tema5/img29.svg', alt='')(style="width: 85%")
             h4.text-center B. Ejecución paso a paso
             p.mb-0(data-aos="fade-down") Seguimiento detallado de cada instrucción del algoritmo, registrando los cambios en las variables en cada etapa del proceso.
           .col-xl.col-lg-6.tarjeta.cajon.C02.p-5
             .row.justify-content-center.mb-3
               .col-lg-7.col-4
                 figure(data-aos="fade-up")
-                  img(src='@/assets/curso/temas/tema5/img30.svg', alt='Imagen decorativa')(style="width: 85%")
+                  img(src='@/assets/curso/temas/tema5/img30.svg', alt='')(style="width: 85%")
             h4.text-center C. Registro de resultados
             p.mb-0(data-aos="fade-down") Documentación de los valores obtenidos en cada iteración o paso, generalmente mediante tablas de trazabilidad.
           .col-xl.col-lg-6.tarjeta.tarjeta--C05.p-5
             .row.justify-content-center.mb-3
               .col-lg-7.col-4
                 figure(data-aos="fade-up")
-                  img(src='@/assets/curso/temas/tema5/img31.svg', alt='Imagen decorativa')(style="width: 85%")
+                  img(src='@/assets/curso/temas/tema5/img31.svg', alt='')(style="width: 85%")
             h4.text-center D. Análisis y validación
             p.mb-0(data-aos="fade-down") Comparación de los resultados obtenidos con los esperados, identificando posibles inconsistencias o errores en la lógica.
     p.mb-0(data-aos="fade-down") La aplicación de pruebas de escritorio permite asegurar que los algoritmos sean correctos, eficientes y confiables, facilitando su implementación posterior y reduciendo la probabilidad de errores en el desarrollo de programas.

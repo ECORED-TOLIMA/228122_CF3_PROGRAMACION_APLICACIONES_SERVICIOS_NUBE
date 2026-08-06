@@ -14,7 +14,7 @@
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
             .col-lg-12(data-aos="flip-up")
-              img(src='@/assets/curso/temas/tema1/img2.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/temas/tema1/img2.svg' alt='')
           .tarjeta.tarjeta--C04.px-5.py-3
             .p-4
               h4 Algoritmo
@@ -23,7 +23,7 @@
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
             .col-lg-12(data-aos="flip-up")
-              img(src='@/assets/curso/temas/tema1/img3.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/temas/tema1/img3.svg' alt='')
           .tarjeta.tarjeta--C04.px-5.py-3
             .p-4
               h4 Pensamiento algorítmico
@@ -47,55 +47,55 @@
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema1/img5.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema1/img5.svg' alt='')
           h4.text-center Algoritmo
           p.mb-5.text-center Secuencia finita, ordenada y lógica de pasos que permiten resolver un problema o realizar una tarea específica.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema1/img6.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema1/img6.svg' alt='')
           h4.text-center Entrada
           p.mb-0.text-center Conjunto de datos iniciales que el algoritmo requiere para su ejecución.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema1/img7.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema1/img7.svg' alt='')
           h4.text-center Proceso
           p.mb-0.text-center Conjunto de operaciones o instrucciones que transforman los datos de entrada en resultados.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema1/img8.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema1/img8.svg' alt='')
           h4.text-center Salida
           p.mb-0.text-center Resultado obtenido después de ejecutar el algoritmo.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema1/img9.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema1/img9.svg' alt='')
           h4.text-center Finitud
           p.mb-0.text-center Característica que indica que todo algoritmo debe tener un inicio y un final definidos.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema1/img10.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema1/img10.svg' alt='')
           h4.text-center Precisión
           p.mb-0.text-center Propiedad que asegura que cada paso del algoritmo está claramente definido y no genera ambigüedad.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema1/img11.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema1/img11.svg' alt='')
           h4.text-center Orden lógico
           p.mb-0.text-center Secuencia estructurada que garantiza la correcta ejecución de las instrucciones.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema1/img12.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema1/img12.svg' alt='')
           h4.text-center Eficiencia
           p.mb-0.text-center Capacidad del algoritmo para resolver un problema utilizando de manera óptima los recursos disponibles.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema1/img13.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema1/img13.svg' alt='')
           h4.text-center Generalidad
           p.mb-0.text-center Propiedad que permite que un algoritmo pueda aplicarse a diferentes casos dentro de un mismo tipo de problema.
     .row.justify-content-center.align-items-center
@@ -114,7 +114,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/tema1/img15.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema1/img15.png', alt='')
       .col.col-lg-8.col-12.order-lg-2.order-2
         .cajon.color-primario.p-4.mb-4
           p.mb-0(data-aos="fade-down") En primer lugar, el pensamiento algorítmico implica la capacidad de descomponer un problema en partes más pequeñas y manejables, facilitando su comprensión y tratamiento. Este enfoque permite identificar claramente los datos de entrada, los procesos necesarios y los resultados esperados.
@@ -122,7 +122,7 @@
         .row.mb-0
           .col-lg-auto.d-none.d-lg-block
             figure
-              img(src='@/assets/curso/temas/tema1/img16.svg', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema1/img16.svg', alt='')
           .col-lg-10.col-12
             p.mb-0 De igual manera, el diseño de soluciones paso a paso permite establecer una secuencia lógica de acciones, asegurando que cada etapa del proceso esté claramente definida y organizada. Esto facilita la validación y corrección de errores durante el desarrollo.
     .row.justify-content-center.mb-0
@@ -146,49 +146,49 @@
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema1/img18.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema1/img18.svg' alt='')
           h4.text-center Comprensión del problema
           p.mb-5.text-center Identificación clara de la situación a resolver, evitando interpretaciones ambiguas.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema1/img19.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema1/img19.svg' alt='')
           h4.text-center Identificación de datos de entrada
           p.text-center Reconocimiento de la información inicial necesaria para desarrollar la solución.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema1/img20.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema1/img20.svg' alt='')
           h4.text-center Definición de resultados esperados (salida)
           p.text-center Establecimiento del objetivo o resultado que se desea obtener.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema1/img21.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema1/img21.svg' alt='')
           h4.text-center Determinación de procesos o transformaciones
           p.text-center Análisis de las operaciones necesarias para convertir las entradas en salidas.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema1/img22.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema1/img22.svg' alt='')
           h4.text-center Identificación de restricciones y condiciones
           p.text-center Reconocimiento de límites, reglas o condiciones que afectan la solución.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema1/img23.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema1/img23.svg' alt='')
           h4.text-center Descomposición del problema
           p.text-center División del problema en partes más pequeñas y manejables para facilitar su solución.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema1/img24.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema1/img24.svg' alt='')
           h4.text-center Abstracción de la información relevante
           p.text-center Selección de los elementos importantes, ignorando información innecesaria.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema1/img25.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema1/img25.svg' alt='')
           h4.text-center Organización lógica de la solución
           p.text-center Estructuración coherente de los pasos que permitirán resolver el problema.
     .row.justify-content-center.mb-0
@@ -197,7 +197,7 @@
           .row.mb-0
             .col-lg-2.d-none.d-lg-block
               figure
-                img(src='@/assets/curso/temas/tema1/img26.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema1/img26.svg', alt='')
             .col-lg-10.col-12
               p.mb-0 En este sentido, el análisis del problema cumple una función fundamental en la construcción de algoritmos, ya que permite diseñar soluciones más precisas, eficientes y alineadas con los objetivos planteados, fortaleciendo las bases del pensamiento lógico y la programación.
     
@@ -207,7 +207,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-3.mb-lg-0
         figure
-          img(src='@/assets/curso/temas/tema1/img27.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema1/img27.svg', alt='')
       .col.col-lg-8.col-12.order-lg-2.order-2
         p.mb-4(data-aos="fade-down") La lógica matemática y la lógica proposicional constituyen el fundamento teórico que permite estructurar el razonamiento dentro del diseño de algoritmos y la programación. Su aplicación facilita la construcción de soluciones coherentes, basadas en reglas claras que permiten analizar situaciones, establecer relaciones y tomar decisiones de manera precisa.
         .cajon.color-primario.px-4.py-3
@@ -226,7 +226,7 @@
     .row.justify-content-center.mb-4.align-items-center
       .col.col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-3.mb-lg-0
         figure
-          img(src='@/assets/curso/temas/tema1/img34.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema1/img34.png', alt='')
       .col.col-lg-8.col-12.order-lg-1.order-2
         p.mb-4(data-aos="fade-down") Los tipos de algoritmos permiten clasificar las soluciones de acuerdo con su estructura, comportamiento y forma de ejecución, facilitando la selección de la estrategia más adecuada para resolver un problema. Esta clasificación contribuye a comprender cómo se organizan las instrucciones y cómo responde un algoritmo ante diferentes escenarios.
         .cajon.color-primario.p-4.mb-0
@@ -236,12 +236,12 @@
       .col-lg-10
         .d-block.d-lg-none.mb-4
           figure
-            img(src='@/assets/curso/temas/tema1/img35_1.svg', alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/tema1/img35_1.svg', alt='')
         .d-none.d-lg-block.mb-4
           ImagenInfografica.color-acento-botones(data-aos="zoom-in")
             template(v-slot:imagen)
               figure.mb-5
-                img(src='@/assets/curso/temas/tema1/img35.svg', alt="Imagen decorativa")
+                img(src='@/assets/curso/temas/tema1/img35.svg', alt='')
             .tarjeta.color-acento-contenido.p-3(x="27%" y="4%" numero="+")
               p Ejecutan instrucciones en un orden lineal, sin interrupciones ni evaluaciones de condiciones.
             .tarjeta.color-acento-contenido.p-3(x="64.5%" y="4%" numero="+")
@@ -258,7 +258,7 @@
           .row.justify-content-center.align-items-center.mb-4
             .col.col-lg-2.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
               figure
-                img(src='@/assets/curso/temas/tema1/img37.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema1/img37.svg', alt='')
             .col.col-lg-10.col-12.order-lg-2.order-2
               .cajon.cajon.C04.px-4.py-3
                 p.mb-0(data-aos="fade-down") Además de su clasificación básica, los algoritmos pueden analizarse desde diferentes enfoques que permiten comprender mejor su comportamiento, eficiencia y aplicabilidad en la resolución de problemas. Esta ampliación facilita seleccionar la estructura más adecuada según el contexto y los requerimientos planteados.
@@ -286,7 +286,7 @@
             //-     p.mb-0 Abordan problemas dividiéndolos en subproblemas similares, utilizando llamadas a sí mismos hasta llegar a un caso base.
         .col-lg-4.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
           figure
-            img(src='@/assets/curso/temas/tema1/img37.png', alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/tema1/img37.png', alt='')
     p.mb-4(data-aos="fade-down") Asimismo, desde el enfoque de su implementación, es importante considerar:
     .row.justify-content-center.mb-0
       .col-xl-4.col-lg-4.col-md-10.col-12.mb-xl-0
@@ -294,7 +294,7 @@
           .indicador--hover(v-if="mostrarIndicador")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema1/img38.png", alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/tema1/img38.png", alt='')
           .crd_hover_txt--body
             h5.t1.mb-3 Algoritmos estructurados
             h5.t2.mb-2 Algoritmos estructurados
@@ -304,7 +304,7 @@
           .indicador--hover(v-if="mostrarIndicador")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema1/img39.png", alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/tema1/img39.png", alt='')
           .crd_hover_txt--body
             h5.t1.mb-3 Algoritmos modulares
             h5.t2.mb-2 Algoritmos modulares
@@ -314,7 +314,7 @@
           .indicador--hover(v-if="mostrarIndicador")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema1/img40.png", alt="Imagen decorativa")
+              img(src="@/assets/curso/temas/tema1/img40.png", alt='')
           .crd_hover_txt--body
             h5.t1.mb-3 Algoritmos paralelos
             h5.t2.mb-2 Algoritmos paralelos
@@ -325,7 +325,7 @@
     .row.justify-content-center.align-items-center.mb-0
       .col.col-lg-auto.col-6.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/tema1/img41.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema1/img41.svg', alt='')
       .col.col-lg-9.col-12.order-lg-2.order-2
         .cajon.cajon.C01.px-4.py-3
           p.mb-0(data-aos="fade-down") En el contexto formativo, el análisis de los tipos de algoritmos fortalece la capacidad para diseñar soluciones más eficientes, seleccionar estructuras adecuadas y comprender el impacto de sus decisiones en el desempeño del programa.

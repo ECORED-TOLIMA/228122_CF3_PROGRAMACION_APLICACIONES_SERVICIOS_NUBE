@@ -9,14 +9,14 @@
     .row.justify-content-center.mb-4
       .col.col-lg-3.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/tema3/img1.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema3/img1.svg', alt='')
       .col.col-lg-9.col-12.order-lg-2.order-2
         .cajon.color-primario.px-4.py-3.mb-4
           p.mb-0(data-aos="fade-down") Los elementos básicos de la programación constituyen el conjunto de fundamentos que permiten estructurar soluciones de manera lógica, organizada y funcional dentro del desarrollo de <em>software</em>. Estos elementos proporcionan las bases necesarias para la construcción de algoritmos implementables en un lenguaje de programación, garantizando claridad, precisión y control en el manejo de la información.
         .row.mb-0
           .col-lg-auto.d-none.d-lg-block
             figure
-              img(src='@/assets/curso/temas/tema3/img2.svg', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema3/img2.svg', alt='')
           .col-lg-10.col-12
             p.mb-0 Su adecuada comprensión es esencial para establecer instrucciones correctas, manipular datos y definir comportamientos dentro de un programa. Estos componentes no solo permiten escribir código, sino también comprender cómo se procesan los datos y cómo se ejecutan las operaciones en un entorno computacional.
     p.mb-4(data-aos="fade-down") Entre los elementos fundamentales de la programación se encuentran:
@@ -25,44 +25,44 @@
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema3/img3.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema3/img3.svg' alt='')
           h4.text-center Identificadores
           p.text-center.mb-5 Nombres asignados a variables, funciones u otros elementos, que permiten su reconocimiento dentro del programa.
           br
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema3/img4.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema3/img4.svg' alt='')
           h4.text-center Palabras reservadas
           p.text-center Términos propios del lenguaje de programación que tienen un significado específico y no pueden ser utilizados como identificadores.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema3/img5.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema3/img5.svg' alt='')
           h4.text-center Variables y constantes
           p.text-center Estructuras que permiten almacenar datos; las variables pueden cambiar su valor, mientras que las constantes permanecen fijas.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema3/img6.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema3/img6.svg' alt='')
           h4.text-center Contadores y acumuladores
           p.text-center Tipos especiales de variables utilizadas para contar eventos o acumular resultados durante la ejecución de un algoritmo.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema3/img7.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema3/img7.svg' alt='')
           h4.text-center Operadores
           p.text-center Símbolos que permiten realizar operaciones matemáticas, lógicas o relacionales sobre los datos.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema3/img8.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema3/img8.svg' alt='')
           h4.text-center Jerarquía de operadores
           p.text-center Define el orden en el que se ejecutan las operaciones dentro de una expresión.
     .row.justify-content-center.align-items-center.mb-0
       .col.col-lg-auto.col-6.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/tema3/img9.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema3/img9.svg', alt='')
       .col.col-lg-9.col-12.order-lg-2.order-2
         .cajon.cajon.C01.px-4.py-3
           p.mb-0(data-aos="fade-down") El dominio de estos elementos permite desarrollar programas estructurados, comprensibles y eficientes, facilitando la correcta implementación de algoritmos y el control del flujo de ejecución dentro de cualquier lenguaje de programación.
@@ -78,14 +78,14 @@
             .row.justify-content-center.mb-3
               .col-lg-5.col-4
                 figure(data-aos="fade-up")
-                  img(src='@/assets/curso/temas/tema3/img10.svg', alt='Imagen decorativa')(style="width: 85%")
+                  img(src='@/assets/curso/temas/tema3/img10.svg', alt='')(style="width: 85%")
             h4.text-center Identificadores
             p.mb-0(data-aos="fade-down") Corresponden a los nombres asignados a variables, funciones, constantes u otros elementos del programa. Su correcta definición permite referenciar, almacenar y manipular datos de forma clara y organizada. Deben seguir reglas sintácticas del lenguaje (como iniciar con letra y evitar caracteres especiales) y utilizarse con criterios de legibilidad para facilitar la comprensión y el mantenimiento del código.
           .col-xl.col-lg-6.tarjeta.cajon.C02.p-5
             .row.justify-content-center.mb-3
               .col-lg-5.col-4
                 figure(data-aos="fade-up")
-                  img(src='@/assets/curso/temas/tema3/img11.svg', alt='Imagen decorativa')(style="width: 85%")
+                  img(src='@/assets/curso/temas/tema3/img11.svg', alt='')(style="width: 85%")
             h4.text-center Palabras reservadas
             p.mb-0(data-aos="fade-down") Son términos propios del lenguaje de programación que poseen un significado predefinido y no pueden emplearse como identificadores. Cumplen funciones específicas dentro de la estructura del programa, como definir tipos de datos, controlar el flujo de ejecución o declarar estructuras. Su correcta aplicación permite que el programa sea interpretado correctamente por el compilador o intérprete y garantiza la coherencia lógica del código.
     .row.justify-content-center.mb-4
@@ -111,7 +111,7 @@
               p.mb-0 Mantener un estilo uniforme en la escritura de identificadores a lo largo del código.
       .col-lg-4.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/temas/tema3/img12.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema3/img12.png', alt='')
     .row.justify-content-center.mb-0
       .col.col-lg-10.col-12
         .cajon.cajon.C05.px-4.py-3
@@ -123,12 +123,12 @@
     .row.justify-content-center.mb-4
       .col.col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/tema3/img13.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema3/img13.png', alt='')
       .col.col-lg-7.col-12.order-lg-2.order-2
         .row.mb-4
           .col-lg-auto.d-none.d-lg-block
             figure
-              img(src='@/assets/curso/temas/tema3/img14.svg', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema3/img14.svg', alt='')
           .col-lg-9.col-12
             p.mb-0 Son elementos fundamentales en la programación, ya que permiten gestionar y manipular la información durante la ejecución de un algoritmo. Su adecuada utilización es clave para controlar el flujo de datos, realizar operaciones y obtener resultados coherentes dentro de una solución computacional.
         .cajon.cajon.color-secundario.p-4.mb-4
@@ -166,7 +166,7 @@
     .row.justify-content-center.mb-0
       .col.col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/tema3/img15.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema3/img15.svg', alt='')
       .col.col-lg-6.col-12.order-lg-2.order-2
         p.mb-3(data-aos="fade-down") Estos elementos no solo almacenan información, sino que permiten estructurar el comportamiento del programa, facilitando la toma de decisiones y la repetición de procesos. Su uso adecuado contribuye a la construcción de soluciones más claras, eficientes y organizadas.
         .cajon.cajon.color-primario.p-4.mb-0
@@ -182,9 +182,9 @@
         p.mb-0 La identificación adecuada del tipo de dato es fundamental para representar correctamente la información y evitar errores durante el procesamiento. Cada tipo de dato posee características particulares que determinan la forma en que puede utilizarse dentro de una solución computacional.
       .col-lg-6.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/tema3/img16.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema3/img16.png', alt='')
     .titulo.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/ico.svg', alt='Imagen decorativa')
+      img(src='@/assets/curso/ico.svg', alt='')
       h4 Clasificación de los tipos de datos básicos
     p.mb-4 A continuación, se presentan los tipos de datos más utilizados en la programación:
     .row.justify-content-center.mb-5(data-aos="flip-up")
@@ -226,7 +226,7 @@
     .row.justify-content-center.align-items-strench.mb-4
       .col-lg-9.col-12.order-lg-2.order-2
         .titulo.mb-4(data-aos="fade-left")
-          img(src='@/assets/curso/ico.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/ico.svg', alt='')
           h4  Características de los tipos de datos
         p.mb-4(data-aos="fade-down") Cada tipo de dato cumple una función específica dentro de los algoritmos:
         
@@ -253,7 +253,7 @@
             p.mb-0 #[b Cadena]: facilita el manejo de palabras, frases y mensajes.
       .col-lg-3.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
         figure.mb-0
-          img(src='@/assets/curso/temas/tema3/img18.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema3/img18.png', alt='')
 
 
     .row.justify-content-center.align-items-strench.mb-4
@@ -261,7 +261,7 @@
         .row.justify-content-center.mb-4
           .col.col-12
             .titulo.mb-4(data-aos="fade-left")
-              img(src='@/assets/curso/ico.svg', alt='Imagen decorativa')
+              img(src='@/assets/curso/ico.svg', alt='')
               h4  Importancia del uso adecuado de tipos de datos
         p.mb-4(data-aos="fade-down") La correcta selección de los tipos de datos permite:
 
@@ -285,7 +285,7 @@
         p.mb-0(data-aos="fade-down") Como complemento a los conceptos abordados sobre tipos de datos, se recomienda revisar el siguiente video, donde se presenta un algoritmo básico que ejemplifica la definición de variables, la asignación de valores y la presentación de resultados, favoreciendo la comprensión práctica del uso de distintos tipos de datos dentro de un programa:
       .col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-4
         figure.mb-0
-          img(src='@/assets/curso/temas/tema3/img19.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema3/img19.svg', alt='')
     .row.justify-content-center.align-items-center           
       .col.col-lg-12
         figure
@@ -308,7 +308,7 @@
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img
             .col-lg-12(data-aos="flip-up")
-              img(src='@/assets/curso/temas/tema3/img21.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/temas/tema3/img21.svg' alt='')
           .tarjeta.tarjeta--C04.px-5.py-3
             .p-4
               h4 Operadores aritméticos
@@ -317,7 +317,7 @@
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img
             .col-lg-12(data-aos="flip-up")
-              img(src='@/assets/curso/temas/tema3/img22.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/temas/tema3/img22.svg' alt='')
           .tarjeta.tarjeta--C04.px-5.py-3
             .p-4
               h4 Operadores lógicos

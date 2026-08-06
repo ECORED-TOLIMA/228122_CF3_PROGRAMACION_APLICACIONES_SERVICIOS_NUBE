@@ -17,7 +17,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-auto.col-8.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/intro/img2.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/intro/img2.svg', alt='')
       .col.col-lg-9.col-12.order-lg-2.order-2
         p.mb-0(data-aos="fade-down") El componente continúa con los elementos básicos de la programación, incluyendo el manejo de identificadores, variables, constantes, operadores y su correcta jerarquización, aspectos esenciales para la construcción de soluciones funcionales. Asimismo, se profundiza en las estructuras de control (secuenciales, condicionales e iterativas) y en el manejo de estructuras de datos básicas como vectores y matrices, permitiendo el desarrollo de soluciones más robustas y eficientes.
     .row.justify-content-center.mb-4

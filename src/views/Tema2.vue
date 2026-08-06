@@ -10,14 +10,14 @@
     .row.justify-content-center.mb-4
       .col.col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/tema2/img1.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema2/img1.png', alt='')
       .col.col-lg-7.col-12.order-lg-2.order-2
         .cajon.color-primario.p-4.mb-4
           p.mb-0(data-aos="fade-down") Estas metodologías no se limitan a la simple escritura de instrucciones, sino que implican un proceso organizado que inicia con el análisis del problema y culmina con la validación de la solución propuesta. A través de ellas, se promueve el uso de herramientas y técnicas que permiten representar, evaluar y optimizar algoritmos antes de su implementación en un lenguaje de programación.
         .row.mb-0
           .col-lg-auto.d-none.d-lg-block
             figure
-              img(src='@/assets/curso/temas/tema2/img2.svg', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema2/img2.svg', alt='')
           .col-lg-10.col-12
             p.mb-0 Dependiendo del enfoque y la complejidad del problema, las metodologías pueden variar en su forma de aplicación, integrando diferentes estrategias de análisis, modelado y representación. Esto permite seleccionar el método más adecuado según las características del problema y los objetivos planteados.
     p.mb-0(data-aos="fade-down") La correcta aplicación de estas metodologías es fundamental para definir la estructura del algoritmo, establecer los pasos necesarios, seleccionar herramientas de representación como el seudocódigo o los diagramas de flujo, y garantizar que la solución sea lógica, coherente y funcional. De esta manera, se convierten en un elemento clave para el desarrollo de soluciones eficientes dentro del proceso de programación.
@@ -32,7 +32,7 @@
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img
             .col-lg-12(data-aos="flip-up")
-              img(src='@/assets/curso/temas/tema2/img3.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/temas/tema2/img3.svg' alt='')
           .tarjeta.tarjeta--C04.px-5.py-3
             .p-4
               p.mb-0 El análisis se enfoca en identificar los elementos esenciales del problema, tales como datos de entrada, procesos y resultados esperados.
@@ -40,7 +40,7 @@
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img
             .col-lg-12(data-aos="flip-up")
-              img(src='@/assets/curso/temas/tema2/img4.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/temas/tema2/img4.svg' alt='')
           .tarjeta.tarjeta--C04.px-5.py-3
             .p-4
               p.mb-0 Mientras que el diseño permite definir la secuencia de pasos que darán forma al algoritmo.
@@ -48,7 +48,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col.col-lg-auto.col-6.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/tema2/img5.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema2/img5.svg', alt='')
       .col.col-lg-9.col-12.order-lg-2.order-2
         .cajon.cajon.C01.px-4.py-3
           p.mb-0(data-aos="fade-down") Este enfoque facilita la planificación de soluciones antes de su implementación, reduciendo errores y mejorando la calidad del resultado.
@@ -103,12 +103,12 @@
     .row.justify-content-center.mb-4
       .col.col-lg-3.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/tema2/img7.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema2/img7.svg', alt='')
       .col.col-lg-9.col-12.order-lg-1.order-2
         .row.mb-4
           .col-lg-auto.d-none.d-lg-block
             figure
-              img(src='@/assets/curso/temas/tema2/img6.svg', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema2/img6.svg', alt='')
           .col-lg-10.col-12
             p.mb-0 La notación de algoritmos mediante seudocódigo es una técnica fundamental que permite representar soluciones de manera clara, estructurada y comprensible, sin depender de un lenguaje de programación específico. Su uso facilita la transición entre el análisis del problema y la implementación, permitiendo expresar la lógica de un algoritmo de forma ordenada y fácilmente interpretable.
         .cajon.color-primario.p-4.mb-4
@@ -123,49 +123,49 @@
               p Establece la ejecución de instrucciones de manera ordenada y consecutiva, de inicio a fin, sin saltos ni decisiones intermedias. Cada paso se realiza después del anterior, garantizando un flujo lógico y predecible del algoritmo.
             .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/temas/tema2/img8.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema2/img8.png', alt='')
           .row.justify-content-center.p-4(titulo="")
             .col-lg-6.order-lg-2.order-2
               h4 Estructuras condicionales
               p Permiten que el algoritmo tome decisiones a partir de la evaluación de una o varias condiciones lógicas. Mediante expresiones como si… entonces… sino, el flujo de ejecución se adapta según se cumpla o no una condición determinada.
             .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/temas/tema2/img9.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema2/img9.png', alt='')
           .row.justify-content-center.p-4(titulo="")
             .col-lg-6.order-lg-2.order-2
               h4 Estructuras repetitivas
               p Facilitan la ejecución reiterada de un conjunto de instrucciones mientras se cumpla una condición específica o durante un número definido de repeticiones. Se implementan mediante ciclos como mientras, para o repetir, optimizando procesos repetitivos.
             .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/temas/tema2/img10.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema2/img10.png', alt='')
           .row.justify-content-center.p-4(titulo="")
             .col-lg-6.order-lg-2.order-2
               h4 Variables y asignación
               p Permiten almacenar, modificar y utilizar datos durante la ejecución del algoritmo. A través de la asignación, una variable puede recibir valores iniciales o resultados de operaciones, funcionando como un espacio de memoria temporal.
             .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/temas/tema2/img11.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema2/img11.png', alt='')
           .row.justify-content-center.p-4(titulo="")
             .col-lg-6.order-lg-2.order-2
               h4 Entrada de datos
               p Conjunto de instrucciones destinadas a capturar información proporcionada por el usuario u otras fuentes externas. Comandos como leer permiten introducir datos necesarios para que el algoritmo procese la información correctamente.
             .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/temas/tema2/img12.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema2/img12.png', alt='')
           .row.justify-content-center.p-4(titulo="")
             .col-lg-6.order-lg-2.order-2
               h4 Salida de datos
               p Instrucciones que muestran los resultados del procesamiento del algoritmo al usuario. Mediante acciones como escribir o imprimir, se comunican valores, mensajes o conclusiones de forma clara y comprensible.
             .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/temas/tema2/img13.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema2/img13.png', alt='')
           .row.justify-content-center.p-4(titulo="")
             .col-lg-6.order-lg-2.order-2
               h4 Indentación y organización
               p Uso adecuado de sangrías, espacios y alineación del texto para representar visualmente la estructura lógica del algoritmo. Una correcta indentación mejora la legibilidad, facilita la comprensión y reduce errores en la interpretación del seudocódigo.
             .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/temas/tema2/img14_1.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema2/img14_1.png', alt='')
     p.mb-0(data-aos="fade-down") El uso adecuado del seudocódigo permite diseñar algoritmos claros, coherentes y libres de errores lógicos, facilitando su posterior implementación en cualquier lenguaje de programación. De esta manera, se convierte en una herramienta esencial para el desarrollo estructurado de soluciones en el ámbito de la programación.
     
     Separador
@@ -202,7 +202,7 @@
               p.mb-0 facilitan la continuidad del diagrama cuando este se extiende o se divide.
       .col-lg-4.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/temas/tema2/img15.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema2/img15.png', alt='')
     .row.justify-content-center.mb-4
       .col.col-lg-10.col-12
         p.mb-0(data-aos="fade-down") Para una mejor comprensión, se relaciona la estructura de un diagrama de flujo con los elementos mencionados:
@@ -227,7 +227,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-3.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/tema2/img17.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema2/img17.png', alt='')
       .col.col-lg-9.col-12.order-lg-2.order-2
         p.mb-4(data-aos="fade-down") Las herramientas para la creación y prueba de algoritmos constituyen un apoyo fundamental en el proceso de diseño, validación y optimización de soluciones lógicas. Estas permiten transformar ideas en representaciones estructuradas, facilitando la verificación del funcionamiento del algoritmo antes de su implementación en un lenguaje de programación.
         .cajon.color-primario.px-4.py-3.mb-0
@@ -248,7 +248,7 @@
               p Entornos de modelado: apoyan la organización y visualización de la lógica del algoritmo antes de su implementación.
         .col-12.col-lg-6.order-lg-2.order-1.mb-lg-0.mb-4
           figure
-            img(src='@/assets/curso/temas/tema2/img18.png', alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/tema2/img18.png', alt='')
       .row.justify-content-center(titulo="Herramientas de prueba")
         .col-12.col-lg-6.order-lg-1.order-2
           ul.lista-ul.mb-0
@@ -263,7 +263,7 @@
               p Herramientas de depuración básica: permiten identificar errores en la secuencia lógica o en el manejo de datos.
         .col-12.col-lg-6.order-lg-2.order-1.mb-lg-0.mb-4
           figure
-            img(src='@/assets/curso/temas/tema2/img19.png', alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/tema2/img19.png', alt='')
       .row.justify-content-center(titulo="Herramientas de apoyo")
         .col-12.col-lg-6.order-lg-1.order-2
           ul.lista-ul.mb-0
@@ -275,11 +275,11 @@
               p Lenguajes de programación básicos: permiten implementar y validar algoritmos en entornos reales.
         .col-12.col-lg-6.order-lg-2.order-1.mb-lg-0.mb-4
           figure
-            img(src='@/assets/curso/temas/tema2/img20.png', alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/tema2/img20.png', alt='')
     .row.justify-content-center.align-items-center.mb-0
       .col.col-lg-2.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/tema2/img21.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema2/img21.svg', alt='')
       .col.col-lg-8.col-12.order-lg-2.order-2
         .cajon.cajon.C04.p-4
           p.mb-0(data-aos="fade-down") La adecuada selección y uso de estas herramientas permite fortalecer el proceso de construcción de algoritmos, asegurando soluciones más precisas, funcionales y alineadas con los requerimientos planteados, facilitando su transición hacia el desarrollo de <em>software</em>.
