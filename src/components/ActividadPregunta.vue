@@ -43,11 +43,11 @@
     <template v-if="respuestaSelected.id">
       <hr />
       <div v-if="respuestaSelected.esCorrecta" class="pt-1">
-        <span class="text-success h3 ma-0">¡Correcto!</span>
+        <span class="mensaje-estado text-success h3 ma-0">¡Correcto!</span>
         <span v-html="pregunta.mensaje_correcto"></span>
       </div>
       <div v-else class="pt-1">
-        <span class="text-danger h3 ma-0">¡Incorrecto!</span>
+        <span class="mensaje-estado text-danger h3 ma-0">¡Incorrecto!</span>
         <span v-html="pregunta.mensaje_incorrecto"></span>
       </div>
     </template>
@@ -102,6 +102,8 @@ img
   height: auto
   display: block
   margin: auto
+.mensaje-estado
+  margin-right: 0.25rem
 .tarjeta--pregunta
   background: #dce4eb
 .tarjeta-respuesta
