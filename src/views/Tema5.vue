@@ -297,7 +297,7 @@
       .col.col-lg-12
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/3bbIQeEBAgE?si=GAlKlELXvPG3yR68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="1337" height="752" src="https://www.youtube.com/embed/JgKuXg3d88U" title="Error lógico" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
     
     Separador
     #t_5_4.titulo-segundo.color-acento-contenido(data-aos="fade-left")
@@ -315,32 +315,32 @@
             .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema5/img17.svg' alt='')
           h5.text-center Parámetros de entrada
-          p.mb-5 Corresponden a los datos que el módulo recibe para ejecutar su función. Estos valores proporcionan la información necesaria para realizar el procesamiento requerido.
+          p.text-center.mb-5 Corresponden a los datos que el módulo recibe para ejecutar su función. Estos valores proporcionan la información necesaria para realizar el procesamiento requerido.
           
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema5/img18.svg' alt='')
           h5.text-center Parámetros de salida 
-          p Representan los resultados generados por el módulo después de procesar la información recibida. Permiten comunicar los resultados obtenidos a otros módulos o al programa principal.
+          p.text-center Representan los resultados generados por el módulo después de procesar la información recibida. Permiten comunicar los resultados obtenidos a otros módulos o al programa principal.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema5/img19.svg' alt='')
           h5.text-center Claridad en la definición 
-          p Los parámetros deben estar claramente especificados para evitar ambigüedades y garantizar una adecuada comprensión de su propósito dentro del módulo.
+          p.text-center Los parámetros deben estar claramente especificados para evitar ambigüedades y garantizar una adecuada comprensión de su propósito dentro del módulo.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema5/img20.svg' alt='')
           h5.text-center Tipo de datos
-          p Es necesario definir el tipo de información que se recibe y se devuelve, asegurando coherencia durante el procesamiento y la obtención de resultados.
+          p.text-center Es necesario definir el tipo de información que se recibe y se devuelve, asegurando coherencia durante el procesamiento y la obtención de resultados.
         .tarjeta.BG01.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema5/img21.svg' alt='')
           h5.text-center Independencia del módulo
-          p Los parámetros permiten que cada módulo funcione de manera autónoma, reduciendo dependencias innecesarias y favoreciendo la reutilización del código.
+          p.text-center Los parámetros permiten que cada módulo funcione de manera autónoma, reduciendo dependencias innecesarias y favoreciendo la reutilización del código.
     .row.justify-content-center.mb-0
       .col.col-12
         p.mb-0(data-aos="fade-down") Una vez definidos los parámetros, es importante establecer cómo se gestionan dentro del programa, considerando el siguiente proceso:

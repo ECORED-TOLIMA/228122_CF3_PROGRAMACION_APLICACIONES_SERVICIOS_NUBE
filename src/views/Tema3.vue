@@ -290,7 +290,7 @@
       .col.col-lg-12
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/v4yGWb55qkk?si=mG38oNRpou4Eg21C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="1337" height="752" src="https://www.youtube.com/embed/Xm5QWbn4RMA" title="Aplicación de algoritmos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
     
     Separador
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-left")

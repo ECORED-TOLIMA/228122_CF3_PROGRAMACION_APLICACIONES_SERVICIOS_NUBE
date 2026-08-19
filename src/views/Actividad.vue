@@ -8,9 +8,16 @@
 
 <script>
 import Actividad from 'ecored-pkg-fliz/plugin/components/actividad/Actividad.vue'
+import ActividadPregunta from '@/components/ActividadPregunta.vue'
+
+const ActividadConRetroalimentacionHTML = {
+  extends: Actividad,
+  components: { ActividadPregunta },
+}
+
 export default {
   name: 'ActividadDidactica',
-  components: { Actividad },
+  components: { Actividad: ActividadConRetroalimentacionHTML },
   data: () => ({
     cuestionario: {
       tema: 'Fundamentos de algoritmia y solución de problemas',
@@ -44,7 +51,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Un algoritmo se aplica cuando se siguen pasos ordenados para lograr un resultado.',
           mensaje_incorrecto:
-            'Revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.<em>Software</em>',
         },
         {
           id: 2,
@@ -61,7 +68,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Esta habilidad permite simplificar problemas y facilitar su solución.',
           mensaje_incorrecto:
-            'Revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.<em>Software</em>',
         },
         {
           id: 3,
@@ -86,7 +93,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! El análisis previo evita errores y mejora la solución.',
           mensaje_incorrecto:
-            'Revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.<em>Software</em>',
         },
         {
           id: 4,
@@ -103,7 +110,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! La lógica proposicional trabaja con valores de verdad.',
           mensaje_incorrecto:
-            'Revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.<em>Software</em>',
         },
         {
           id: 5,
@@ -120,7 +127,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Los operadores lógicos permiten evaluar múltiples condiciones.',
           mensaje_incorrecto:
-            'Revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.<em>Software</em>',
         },
         {
           id: 6,
@@ -137,7 +144,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! El enfoque descendente facilita la organización de soluciones.',
           mensaje_incorrecto:
-            'Revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.<em>Software</em>',
         },
         {
           id: 7,
@@ -154,7 +161,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! El seudocódigo facilita la comprensión de la lógica.',
           mensaje_incorrecto:
-            'Revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.<em>Software</em>',
         },
         {
           id: 8,
@@ -171,7 +178,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Los diagramas permiten entender el flujo del algoritmo.',
           mensaje_incorrecto:
-            'Revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.<em>Software</em>',
         },
         {
           id: 9,
@@ -188,7 +195,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Es una técnica clave para validar la lógica.',
           mensaje_incorrecto:
-            'Revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.<em>Software</em>',
         },
         {
           id: 10,
@@ -205,7 +212,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Los identificadores deben ser claros y descriptivos.',
           mensaje_incorrecto:
-            'Revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.<em>Software</em>',
         },
         {
           id: 11,
@@ -226,7 +233,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Las constantes no pueden cambiar durante la ejecución.',
           mensaje_incorrecto:
-            'Revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.<em>Software</em>',
         },
         {
           id: 12,
@@ -243,7 +250,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo!Los contadores registran repeticiones.',
           mensaje_incorrecto:
-            'Revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.<em>Software</em>',
         },
         {
           id: 13,
@@ -259,7 +266,7 @@ export default {
           ],
           mensaje_correcto: '¡Excelente trabajo! Es un operador relacional.',
           mensaje_incorrecto:
-            'Revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.<em>Software</em>',
         },
         {
           id: 14,
@@ -275,7 +282,7 @@ export default {
           ],
           mensaje_correcto: '¡Excelente trabajo! Es una estructura secuencial.',
           mensaje_incorrecto:
-            'Revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.<em>Software</em>',
         },
         {
           id: 15,
@@ -291,7 +298,7 @@ export default {
           ],
           mensaje_correcto: '¡Excelente trabajo! Permite tomar decisiones.',
           mensaje_incorrecto:
-            'Revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.<em>Software</em>',
         },
         {
           id: 16,
@@ -311,7 +318,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Es útil cuando no se sabe cuántas veces repetir.',
           mensaje_incorrecto:
-            'Revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.<em>Software</em>',
         },
         {
           id: 17,
@@ -328,7 +335,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Permite almacenar múltiples datos.',
           mensaje_incorrecto:
-            'Revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.<em>Software</em>',
         },
         {
           id: 18,
@@ -356,7 +363,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Facilita mantenimiento y comprensión.',
           mensaje_incorrecto:
-            'Revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.<em>Software</em>',
         },
         {
           id: 19,
@@ -376,7 +383,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Permiten el funcionamiento del módulo.',
           mensaje_incorrecto:
-            'Revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.<em>Software</em>',
         },
         {
           id: 20,
@@ -397,7 +404,7 @@ export default {
           mensaje_correcto:
             '¡Excelente trabajo! Permite corregir errores antes de implementar.',
           mensaje_incorrecto:
-            'Revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.<em>Software</em>',
         },
       ],
       mensaje_final_aprobado:

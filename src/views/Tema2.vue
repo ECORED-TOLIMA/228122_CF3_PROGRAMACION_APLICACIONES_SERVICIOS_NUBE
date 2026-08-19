@@ -199,7 +199,7 @@
               p.mb-0 Conectan los símbolos y muestran la dirección del proceso.
           .row(numero="6" titulo="Conectores")
             .col-12.mb-4.mb-md-0
-              p.mb-0 facilitan la continuidad del diagrama cuando este se extiende o se divide.
+              p.mb-0 Facilitan la continuidad del diagrama cuando este se extiende o se divide.
       .col-lg-4.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
         figure
           img(src='@/assets/curso/temas/tema2/img15.png', alt='')
@@ -213,9 +213,9 @@
           span Símbolos en diagramas de flujo
       .row.justify-content-center
         .d-none.d-lg-block.mb-4
-            img(src='@/assets/curso/temas/tema2/img16.svg', alt='Figura 1 que presenta un diagrama de flujo con los símbolos estandarizados utilizados en el diseño de algoritmos, incluyendo el símbolo terminal (inicio y fin), procesos, entrada y salida de datos, decisiones, líneas de flujo y conectores, organizados de manera secuencial para ilustrar el recorrido lógico y la toma de decisiones dentro de un procedimiento.')
+            img(src='@/assets/curso/temas/tema2/img16.svg', alt='En la figura 1 se presentan los principales símbolos utilizados en los diagramas de flujo: terminal (inicio), proceso, entrada/salida, decisión y conectores. Los símbolos se encuentran unidos mediante líneas de flujo con dirección definida, presentando una secuencia que inicia en el terminal, continúa por un proceso y una entrada/salida, pasa por una decisión con las opciones Sí y No, y finaliza en los conectores identificados como A y B.')
         .d-block.d-lg-none
-            img(src='@/assets/curso/temas/tema2/img16_1.svg', alt='Figura 1 que presenta un diagrama de flujo con los símbolos estandarizados utilizados en el diseño de algoritmos, incluyendo el símbolo terminal (inicio y fin), procesos, entrada y salida de datos, decisiones, líneas de flujo y conectores, organizados de manera secuencial para ilustrar el recorrido lógico y la toma de decisiones dentro de un procedimiento.')
+            img(src='@/assets/curso/temas/tema2/img16_1.svg', alt='En la figura 1 se presentan los principales símbolos utilizados en los diagramas de flujo: terminal (inicio), proceso, entrada/salida, decisión y conectores. Los símbolos se encuentran unidos mediante líneas de flujo con dirección definida, presentando una secuencia que inicia en el terminal, continúa por un proceso y una entrada/salida, pasa por una decisión con las opciones Sí y No, y finaliza en los conectores identificados como A y B.')
     .row.justify-content-center.align-items-center.mb-0
       .col.col-lg-10.col-12
         .cajon.cajon.C01.px-4.py-3
@@ -282,7 +282,7 @@
           img(src='@/assets/curso/temas/tema2/img21.svg', alt='')
       .col.col-lg-8.col-12.order-lg-2.order-2
         .cajon.cajon.C04.p-4
-          p.mb-0(data-aos="fade-down") La adecuada selección y uso de estas herramientas permite fortalecer el proceso de construcción de algoritmos, asegurando soluciones más precisas, funcionales y alineadas con los requerimientos planteados, facilitando su transición hacia el desarrollo de <em>software</em>.
+          p.mb-0 La adecuada selección y uso de estas herramientas permite fortalecer el proceso de construcción de algoritmos, asegurando soluciones más precisas, funcionales y alineadas con los requerimientos planteados, facilitando su transición hacia el desarrollo de <em>software</em>.
 </template>
 
 <script>
